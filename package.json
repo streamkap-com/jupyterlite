@@ -1,0 +1,14 @@
+{
+    "name": "@streamkap/jupyterlite",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Custom JupyterLite build for Streamkap",
+    "main": "dist/index.html",
+    "files": ["dist"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/streamkap-com/jupyterlite.git"
+    },
+    "license": "BSD-3-Clause"
+  }
+  
